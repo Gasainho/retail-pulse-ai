@@ -13,7 +13,7 @@ RetailPulse is an autonomous retention architecture designed to detect "Silent A
 * **Platform:** AWS SageMaker Canvas (No-Code ML)
 * **Model Type:** Binary Classification (XGBoost)
 * **Target Variable:** `Churned_YesNo`
-* **Performance:** 95%+ Predictive Accuracy
+* **Performance:** >95% Predictive Accuracy
 
 ### ⚡ Key Findings
 1. **Recency is Critical:** The `DaysSinceLastOrder` variable accounted for the majority of model impact.
